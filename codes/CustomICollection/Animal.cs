@@ -20,7 +20,7 @@ public class Animal : ICollection<Cat>
 
     public void Add(Cat item)
     {
-        _cats[_position++] = item;
+        _cats[_position++] = item; 
     }
 
     public void Clear()
