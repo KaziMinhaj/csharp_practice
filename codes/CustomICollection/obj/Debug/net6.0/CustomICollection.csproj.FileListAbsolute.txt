@@ -1,0 +1,15 @@
+D:\csharp practice\csharp_practice\codes\CustomICollection\bin\Debug\net6.0\CustomICollection.exe
+D:\csharp practice\csharp_practice\codes\CustomICollection\bin\Debug\net6.0\CustomICollection.deps.json
+D:\csharp practice\csharp_practice\codes\CustomICollection\bin\Debug\net6.0\CustomICollection.runtimeconfig.json
+D:\csharp practice\csharp_practice\codes\CustomICollection\bin\Debug\net6.0\CustomICollection.dll
+D:\csharp practice\csharp_practice\codes\CustomICollection\bin\Debug\net6.0\CustomICollection.pdb
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.csproj.AssemblyReference.cache
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.AssemblyInfoInputs.cache
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.AssemblyInfo.cs
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.csproj.CoreCompileInputs.cache
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.dll
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\refint\CustomICollection.dll
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.pdb
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\CustomICollection.genruntimeconfig.cache
+D:\csharp practice\csharp_practice\codes\CustomICollection\obj\Debug\net6.0\ref\CustomICollection.dll

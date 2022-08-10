@@ -1,0 +1,15 @@
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\bin\Debug\net6.0\CustomIEnumerable.exe
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\bin\Debug\net6.0\CustomIEnumerable.deps.json
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\bin\Debug\net6.0\CustomIEnumerable.runtimeconfig.json
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\bin\Debug\net6.0\CustomIEnumerable.dll
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\bin\Debug\net6.0\CustomIEnumerable.pdb
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.csproj.AssemblyReference.cache
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.AssemblyInfoInputs.cache
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.AssemblyInfo.cs
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.csproj.CoreCompileInputs.cache
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.dll
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\refint\CustomIEnumerable.dll
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.pdb
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\CustomIEnumerable.genruntimeconfig.cache
+D:\csharp practice\csharp_practice\codes\CustomIEnumerable\obj\Debug\net6.0\ref\CustomIEnumerable.dll
