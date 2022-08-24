@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-var path = @"D:\csharp practice\csharp_practice\codes\FileOperations\content.txt";
+//var path = @"D:\csharp practice\csharp_practice\codes\FileOperations\content.txt";
 //var content = "I am learing c#.";
 
 //File.WriteAllText(path, content);
