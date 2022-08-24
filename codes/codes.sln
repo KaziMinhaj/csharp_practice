@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomIEnumerable", "CustomIEnumerable\CustomIEnumerable.csproj", "{10DAFA0B-26BE-4D67-B74B-D613905D678F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomICollection", "CustomICollection\CustomICollection.csproj", "{5C007ABD-9337-4B22-B69B-264DD62C6616}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomICollection", "CustomICollection\CustomICollection.csproj", "{5C007ABD-9337-4B22-B69B-264DD62C6616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO DOT NET", "ADO DOT NET\ADO DOT NET.csproj", "{AB32899D-9C8D-488E-BFB7-D44F70741879}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5C007ABD-9337-4B22-B69B-264DD62C6616}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5C007ABD-9337-4B22-B69B-264DD62C6616}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5C007ABD-9337-4B22-B69B-264DD62C6616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB32899D-9C8D-488E-BFB7-D44F70741879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB32899D-9C8D-488E-BFB7-D44F70741879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB32899D-9C8D-488E-BFB7-D44F70741879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB32899D-9C8D-488E-BFB7-D44F70741879}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

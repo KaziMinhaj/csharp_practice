@@ -1,0 +1,22 @@
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\ADO DOT NET.exe
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\ADO DOT NET.deps.json
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\ADO DOT NET.runtimeconfig.json
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\ADO DOT NET.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\ADO DOT NET.pdb
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.csproj.AssemblyReference.cache
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.AssemblyInfoInputs.cache
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.AssemblyInfo.cs
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.csproj.CoreCompileInputs.cache
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.csproj.CopyComplete
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\refint\ADO DOT NET.dll
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.pdb
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ADO DOT NET.genruntimeconfig.cache
+D:\csharp practice\csharp_practice\codes\ADO DOT NET\obj\Debug\net6.0\ref\ADO DOT NET.dll

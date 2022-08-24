@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp practice\\csharp_practice\\codes\\CustomICollection\\CustomICollection.csproj": {}
+    "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\ADO DOT NET.csproj": {}
   },
   "projects": {
-    "D:\\csharp practice\\csharp_practice\\codes\\CustomICollection\\CustomICollection.csproj": {
+    "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\ADO DOT NET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp practice\\csharp_practice\\codes\\CustomICollection\\CustomICollection.csproj",
-        "projectName": "CustomICollection",
-        "projectPath": "D:\\csharp practice\\csharp_practice\\codes\\CustomICollection\\CustomICollection.csproj",
+        "projectUniqueName": "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\ADO DOT NET.csproj",
+        "projectName": "ADO DOT NET",
+        "projectPath": "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\ADO DOT NET.csproj",
         "packagesPath": "C:\\Users\\KaziMinhaj\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp practice\\csharp_practice\\codes\\CustomICollection\\obj\\",
+        "outputPath": "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KaziMinhaj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
