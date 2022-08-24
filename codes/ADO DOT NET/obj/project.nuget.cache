@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zy5IH/n6UHLPTyzu37JHOkAXuMTyURH/S28EbR6wE+USSYnn2qouuTpqOT6xUiyCEFuOJQpf36UV2GIgfPXSzg==",
+  "dgSpecHash": "h/BbLfS/vzPcd4Mi4BfZPm0evO5lASnBi09Lc82+L7PaQfNgwr59FBMsAtMKSB/34K6ALkAqDHU0SF7CSYp7TA==",
   "success": true,
-  "projectFilePath": "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\ADO DOT NET.csproj",
+  "projectFilePath": "D:\\csharp practice\\csharp_practice\\codes\\ADO DOT NET\\AdoDotNet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\KaziMinhaj\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\KaziMinhaj\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
