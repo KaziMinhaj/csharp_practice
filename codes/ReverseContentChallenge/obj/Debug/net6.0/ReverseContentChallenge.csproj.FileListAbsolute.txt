@@ -1,0 +1,15 @@
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\bin\Debug\net6.0\ReverseContentChallenge.exe
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\bin\Debug\net6.0\ReverseContentChallenge.deps.json
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\bin\Debug\net6.0\ReverseContentChallenge.runtimeconfig.json
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\bin\Debug\net6.0\ReverseContentChallenge.dll
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\bin\Debug\net6.0\ReverseContentChallenge.pdb
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.csproj.AssemblyReference.cache
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.AssemblyInfoInputs.cache
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.AssemblyInfo.cs
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.csproj.CoreCompileInputs.cache
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.dll
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\refint\ReverseContentChallenge.dll
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.pdb
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ReverseContentChallenge.genruntimeconfig.cache
+D:\csharp practice\csharp_practice\codes\ReverseContentChallenge\obj\Debug\net6.0\ref\ReverseContentChallenge.dll

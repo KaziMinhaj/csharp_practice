@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomIEnumerable", "Custom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomICollection", "CustomICollection\CustomICollection.csproj", "{5C007ABD-9337-4B22-B69B-264DD62C6616}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoDotNet", "ADO DOT NET\AdoDotNet.csproj", "{AB32899D-9C8D-488E-BFB7-D44F70741879}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdoDotNet", "ADO DOT NET\AdoDotNet.csproj", "{AB32899D-9C8D-488E-BFB7-D44F70741879}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileOperations", "FileOperations\FileOperations.csproj", "{7C6CED1F-340B-4649-A570-FB7186437C6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileOperations", "FileOperations\FileOperations.csproj", "{7C6CED1F-340B-4649-A570-FB7186437C6F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCore", "EFCore\EFCore.csproj", "{73C8F85C-B053-4CC8-BB39-6B1320BF18E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseContentChallenge", "ReverseContentChallenge\ReverseContentChallenge.csproj", "{E2057108-7487-411D-AA8C-9829433F1183}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{7C6CED1F-340B-4649-A570-FB7186437C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C6CED1F-340B-4649-A570-FB7186437C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C6CED1F-340B-4649-A570-FB7186437C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73C8F85C-B053-4CC8-BB39-6B1320BF18E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73C8F85C-B053-4CC8-BB39-6B1320BF18E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73C8F85C-B053-4CC8-BB39-6B1320BF18E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73C8F85C-B053-4CC8-BB39-6B1320BF18E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2057108-7487-411D-AA8C-9829433F1183}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2057108-7487-411D-AA8C-9829433F1183}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2057108-7487-411D-AA8C-9829433F1183}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2057108-7487-411D-AA8C-9829433F1183}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
